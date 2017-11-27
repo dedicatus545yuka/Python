@@ -1,5 +1,3 @@
-
-'''py
 #-*-coding:utf-8-*-
 def isonePrime(num):
     '判断一个数是不是素数'
@@ -55,4 +53,4 @@ for num in range(tip_start,tip_end):
         else :
             print(num)
 '''
-'''
+
